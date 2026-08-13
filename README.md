@@ -7,8 +7,11 @@ Student registration, view student details, search by name or ID, add and remove
 # Technologies Used
 
 **Frontend:** Java, Console-based User Interface, Scanner, Menu-Driven Interface
+
 **Backend:** Java, Object-Oriented Programming, Business Logic, Searching & Sorting Algorithms
+
 **Database:** File-based Data Handling
+
 **Core Concepts:** Classes & Objects, Arrays, Methods, Loops, Conditional Statements, String Handling, Linear Search, Bubble Sort
 
 # Project Structure
