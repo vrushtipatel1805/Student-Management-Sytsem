@@ -10,7 +10,7 @@ Student registration, view student details, search by name or ID, add and remove
 
 **Backend:** Java, Object-Oriented Programming, Business Logic, Searching & Sorting Algorithms
 
-**Database:** File-based Data Handling
+**Database:** Not used — data is stored temporarily using Java arrays
 
 **Core Concepts:** Classes & Objects, Arrays, Methods, Loops, Conditional Statements, String Handling, Linear Search, Bubble Sort
 
