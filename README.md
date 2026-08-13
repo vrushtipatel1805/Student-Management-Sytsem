@@ -15,6 +15,7 @@ Student registration, view student details, search by name or ID, add and remove
 **Core Concepts:** Classes & Objects, Arrays, Methods, Loops, Conditional Statements, String Handling, Linear Search, Bubble Sort
 
 # Project Structure
+
 Student-Management-System/
 │
 ├── src/
