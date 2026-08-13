@@ -2,7 +2,17 @@
 Developed a Java-based Student Management and Attendance System to manage student records and attendance efficiently. Implemented features such as adding, updating, deleting, searching, and sorting student data. Added attendance tracking and report generation functionality using Java and array-based data management. Intergrated Java, OOP, Arrays.
 # Key Features
 
-Student registration, view student details, search by name or ID, add and remove students, update student information, sort students by name, filter students by course, mark attendance, view attendance records, calculate attendance percentage, and generate student and attendance reports.
+* Student registration
+* view student details
+* search by name or ID
+* add and remove students
+* update student information
+* sort students by name
+* filter students by course
+* mark attendance
+* iew attendance records
+* calculate attendance percentage
+* generate student and attendance reports.
 
 # Technologies Used
 
